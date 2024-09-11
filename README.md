@@ -14,9 +14,10 @@ Please download the files from the GitHub repository.
 
 ## How to run
 
-1) Unzip files into a single folder of your choice.
-2) Open index.html with your browser.
-3) Now you are ready to use.
+1) Update your browser version.
+2) Unzip files into a single folder of your choice.
+3) Open index.html with your browser.
+4) Now you are ready to use.
 
 ## Results
 
